@@ -1,24 +1,21 @@
-# README
+# 使い方
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## bundle install
 
-Things you may want to cover:
+```
+bundle install
+```
 
-* Ruby version
+## Test
 
-* System dependencies
+```
+$ chmod u+x bin/test
+$ ./bin/test
+```
 
-* Configuration
+## Lint
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+$ chmod u+x bin/lint
+$ ./bin/lint
+```
