@@ -15,14 +15,8 @@
 ```
 $ git clone git@github.com:kotakanazawa/rails-starter-kit.git
 $ cd rails-starter-kit
-$ bundle
+$ bundle intall
 $ bin/rails db:create
-```
-
-## bundle install
-
-```
-$ bundle install
 ```
 
 ## Test
