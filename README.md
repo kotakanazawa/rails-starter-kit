@@ -2,6 +2,7 @@
 
 - Rails version: 6.0.3.3
 - Ruby version: ruby 2.7.1
+- DB: PostgreSQL
 
 ## 使い方
 
