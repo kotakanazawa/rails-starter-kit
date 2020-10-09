@@ -4,6 +4,12 @@
 - Ruby version: ruby 2.7.1
 - DB: PostgreSQL
 
+## デフォルト
+
+- Rubocop
+- RSpec
+- テンプレートエンジン: Slim
+
 ## 使い方
 
 ```
